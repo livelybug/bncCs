@@ -3,7 +3,7 @@ default = []
 runtime-benchmarks = ['appchain-barnacle-runtime/runtime-benchmarks']
 
 [[bin]]
-name = 'appchain-barnacle'
+name = 'appchain-bnc01cs'
 
 [package]
 authors = ['Octopus Network <hi@oct.network>']
@@ -12,7 +12,7 @@ description = 'A minimal template for octopus appchain.'
 edition = '2018'
 homepage = 'https://oct.network/'
 license = 'Apache-2.0'
-name = 'appchain-barnacle'
+name = 'appchain-bnc01cs'
 repository = 'https://github.com/octopus-network/barnacle/'
 version = '3.0.0'
 [package.metadata.docs.rs]
